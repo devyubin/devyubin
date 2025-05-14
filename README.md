@@ -5,14 +5,4 @@
 [![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://dev-yubin.notion.site/Yubin-Kim-c217d8cf783c4b2fb52d4453faeb1a1d)](https://dev-yubin.notion.site/Yubin-Kim-c217d8cf783c4b2fb52d4453faeb1a1d) 
 
 ### Yubin Kim   
-| Backend Developer, Interested in cloud & Infra and Solution Architect
-<br>
-<br>
-#### ✨ Experiences 
-Pirogramming 16th Crew <sub>2020 - 2021 </sub>  
-Play SW Univ student teachers mentor <sub>2021 - 2022</sub>  
-Kusitms 26th Dev Crew | Administrator of the PR Team | Lead of the TF PR Team <sub>2022</sub>  
-AWSKRUG University Student Group 7th Crew <sub>2023 - now</sub>  
-AWS Cloud Club 1st Captain of DongDuk Womans University <sub>2023 - now</sub>  
-Cloud Club 5th Crew <sub>2024 - now</sub>  
-SK Telecom Devocean Young 3rd <sub>2024 - now</sub> 
+| Interested in cloud & Infra 
